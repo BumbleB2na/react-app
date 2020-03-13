@@ -1,7 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://bumbleb2na.github.io/react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
